@@ -1,0 +1,202 @@
+
+Buff_monster.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 415, 166
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 455, 2
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: false
+  xy: 526, 3
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 11
+  size: 155, 243
+  orig: 176, 243
+  offset: 0, 0
+  index: -1
+camera
+  rotate: false
+  xy: 473, 169
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+camera_2
+  rotate: false
+  xy: 515, 82
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+camera_glow
+  rotate: false
+  xy: 682, 192
+  size: 62, 62
+  orig: 74, 74
+  offset: 6, 6
+  index: -1
+ef
+  rotate: false
+  xy: 671, 112
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: true
+  xy: 692, 24
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 608, 178
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 370, 3
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+g_arm_l
+  rotate: false
+  xy: 621, 5
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+g_arm_r
+  rotate: false
+  xy: 459, 78
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+g_body
+  rotate: false
+  xy: 159, 16
+  size: 194, 238
+  orig: 211, 248
+  offset: 17, 10
+  index: -1
+g_eye
+  rotate: false
+  xy: 692, 4
+  size: 55, 18
+  orig: 55, 18
+  offset: 0, 0
+  index: -1
+g_eye_1
+  rotate: true
+  xy: 382, 66
+  size: 92, 13
+  orig: 92, 13
+  offset: 0, 0
+  index: -1
+g_eye_2
+  rotate: true
+  xy: 581, 3
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+g_eye_3
+  rotate: true
+  xy: 560, 169
+  size: 85, 46
+  orig: 85, 46
+  offset: 0, 0
+  index: -1
+g_hair
+  rotate: true
+  xy: 715, 33
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+g_mouth
+  rotate: true
+  xy: 650, 183
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+g_mouth_2
+  rotate: false
+  xy: 741, 159
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 355, 2
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 355, 56
+  size: 198, 25
+  orig: 198, 25
+  offset: 0, 0
+  index: -1
+smile
+  rotate: false
+  xy: 671, 86
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+switch
+  rotate: false
+  xy: 721, 86
+  size: 24, 24
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 602, 83
+  size: 84, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+느낌표
+  rotate: false
+  xy: 382, 160
+  size: 31, 94
+  orig: 31, 94
+  offset: 0, 0
+  index: -1
+물음표
+  rotate: false
+  xy: 397, 67
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
